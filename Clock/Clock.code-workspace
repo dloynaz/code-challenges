@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\React\\social-media-dashboard-with-theme-switcher-master\\social-media-dashboard"
+		},
+		{
+			"path": "..\\..\\React\\jammming"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Array-Cardio-Day-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Array-Cardio-Day-1"
+	}
+}
